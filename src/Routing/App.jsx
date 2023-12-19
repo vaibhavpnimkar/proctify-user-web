@@ -23,6 +23,7 @@ import AllExams from "../screens/Dashboard/AllExams";
 import VerifyRegister from "../screens/Authentication/VerifyRegister";
 const App = () => {
   return (
+  
     <BrowserRouter>
       <Navbar />
       <Routes>
@@ -51,6 +52,7 @@ const App = () => {
       </Routes>
       <Toaster position="bottom-center" />
     </BrowserRouter>
+         
   );
 };
 
