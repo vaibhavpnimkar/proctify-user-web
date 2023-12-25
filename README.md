@@ -15,10 +15,7 @@
 
 ## Setting Up a React App
 
-3. **Create a New Branch:**
-   ```bash
-   git checkout -b feature/my-changes
-   ```
+
 
 4. **Navigate to the React App Directory:**
    ```bash
